@@ -1,0 +1,8 @@
+# --- NetBeans Ignore ---
+/build/
+/dist/
+/nbproject/private/
+/nbproject/project.properties.old
+/nbproject/project.xml.old
+build.log
+.DS_Store
