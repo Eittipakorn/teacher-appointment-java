@@ -12,14 +12,14 @@ The idea was inspired by the difficulty in contacting certain teachers who are o
 - Using Java Swing in Netbeans
 
 ## Screenshots
-![Landing page](screenshot_01)
+![Landing page](screenshot_01.png)
 
-![Making appointment 1](screenshot_02)
+![Making appointment 1](screenshot_02.png)
 
-![Making appointment 2](screenshot_03)
+![Making appointment 2](screenshot_03.png)
 
-![Review appointment](screenshot_04)
+![Review appointment](screenshot_04.png)
 
-![Appointment complete](screenshot_05)
+![Appointment complete](screenshot_05.png)
 
-![Appointment Transaction Slip](screenshot_06)
+![Appointment Transaction Slip](screenshot_06.png)
