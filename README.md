@@ -1,6 +1,7 @@
 # Teacher Appointment Application
 
 **Subject:** Object-Oriented Programming
+
 **Type:** Individual Project
 
 ## Description
